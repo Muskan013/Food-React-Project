@@ -564,7 +564,7 @@ section .main_btn:hover i{
   width: 100%;
   height: 100vh;
   padding: 70px 0;
-  background-image: url(C:\Users\FATHIMA MUSKAN\OneDrive\Desktop\Food-React\newapps\public\NewAssests\bg2.jpg);
+  background-image: url("../public/NewAssests/bg2.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -649,7 +649,7 @@ section .main_btn:hover i{
 .team{
   width: 100%;
   height: 90vh;
-  background-image: url(C:\Users\FATHIMA MUSKAN\OneDrive\Desktop\Food-React\newapps\public\NewAssests\bg1.jpg);
+  background-image: url("../public/NewAssests/bg1.jpg");
   background-size: cover;
   background-position: center;
 }
