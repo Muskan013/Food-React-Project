@@ -674,7 +674,7 @@ function App() {
                         <input type="password" placeholder="your password"/>
                     </div>
     
-                    <a href="#" className="order_btn">Login</a>
+                    <a href="#" className="order_btn">Order</a>
     
                 </form>
     
