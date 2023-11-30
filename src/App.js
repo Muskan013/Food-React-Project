@@ -17,7 +17,7 @@ function App() {
                     <li><a href="#Menu">Menu</a></li>
                     <li><a href="#Gallery">Gallery</a></li>
                     <li><a href="#Review">Review</a></li>
-                    <li><a href="#Order">Order</a></li>
+                    <li><a href="#Login">Login</a></li>
                 </ul>
     
                 <div className="icon">
