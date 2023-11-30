@@ -644,7 +644,7 @@ function App() {
         
     
         <div className="order" id="Order">
-            <h1><span>Order</span>Now</h1>
+            <h1><span>Login</span>Now</h1>
     
             <div className="order_main">
     
@@ -670,21 +670,11 @@ function App() {
                     </div>
     
                     <div className="input">
-                        <p>How Much</p>
-                        <input type="number" placeholder="how many order ?"/>
+                        <p>Password</p>
+                        <input type="password" placeholder="your password"/>
                     </div>
     
-                    <div className="input">
-                        <p>You Order</p>
-                        <input placeholder="food name"/>
-                    </div>
-    
-                    <div className="input">
-                        <p>Address</p>
-                        <input placeholder="your Address"/>
-                    </div>
-    
-                    <a href="#" className="order_btn">Order Now</a>
+                    <a href="#" className="order_btn">Login</a>
     
                 </form>
     
